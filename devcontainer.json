@@ -1,0 +1,16 @@
+{
+
+    "customizations": {
+
+        "vscode": {
+
+            "extensions": [
+                "oliver-ni.web-cat-vscode",
+                "vscjava.vscode-java-pack"
+            ]
+
+        }
+
+    }
+
+}
