@@ -1,5 +1,7 @@
 {
 
+    "name": "default-container",
+
     "customizations": {
 
         "vscode": {
@@ -11,6 +13,10 @@
 
         }
 
+    },
+
+    "features": {
+        "ghcr.io/devcontainers/features/java:1": {}
     }
 
 }
