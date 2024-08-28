@@ -24,6 +24,8 @@
 
     "features": {
         "ghcr.io/devcontainers/features/java:1": {}
-    }
+    },
+
+    "postCreateCommand": "bash lock.sh"
 
 }
