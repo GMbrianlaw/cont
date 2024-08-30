@@ -1,6 +1,8 @@
 cd
 
-mkdir tag
+mkdir -p tag
+
+mkdir -p .vscode-remote/extensions
 
 cd .vscode-remote
 
