@@ -4,10 +4,6 @@
 
     "customizations": {
         "vscode": {
-            "extensions": [
-                "oliver-ni.web-cat-vscode",
-                "vscjava.vscode-java-pack"
-            ],
             "settings": {
                 "extensions.ignoreRecommendations": true,
                 "files.autoSave": "off",
@@ -26,6 +22,6 @@
         "ghcr.io/devcontainers/features/java:1": {}
     },
 
-    "postCreateCommand": "bash lock.sh"
+    "postCreateCommand": "bash .lock.sh"
 
 }
