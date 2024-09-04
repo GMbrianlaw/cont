@@ -1,8 +1,8 @@
-cd
-
-code --install-extension oliver-ni.web-cat-vscode
-code --install-extension vscjava.vscode-java-pack
-
+# cd
+#
+# code --install-extension oliver-ni.web-cat-vscode
+# code --install-extension vscjava.vscode-java-pack
+#
 # mkdir -p .vscode-remote/extensions
 
 # cd .vscode-remote

@@ -18,6 +18,7 @@
         }
     },
 
-    "postCreateCommand": "bash .lock.sh"
+    "postCreateCommand": "bash .lock.sh",
+    "postStartCommand": "bash .lock.sh"
 
 }
