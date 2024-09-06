@@ -19,6 +19,6 @@
     },
 
     "postCreateCommand": "bash .lock.sh",
-    "postStartCommand": "bash .lock.sh"
+    "postStartCommand": "bash .start.sh"
 
 }
