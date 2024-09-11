@@ -1,6 +1,6 @@
 {
 
-    "name": "default-container",
+    "name": "container-1",
 
     "customizations": {
         "vscode": {
