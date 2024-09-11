@@ -1,0 +1,29 @@
+{
+
+    "name": "default-container",
+
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "oliver-ni.web-cat-vscode",
+                "vscjava.vscode-java-pack"
+            ],
+            "settings": {
+                "extensions.ignoreRecommendations": true,
+                "files.autoSave": "off",
+                "files.exclude": {"**/.*": true},
+                "web-CAT.snarfURLs": [
+                    "http://205.173.41.10/javasnarf/snarf.xml"
+                ],
+                "web-CAT.submitURLs": [
+                    "http://205.173.41.10/Web-CAT/WebObjects/Web-CAT.woa/wa/assignments/eclipse"
+                ]
+            }
+        }
+    },
+
+    "features": {
+        "ghcr.io/devcontainers/features/java:1": {}
+    }
+
+}
