@@ -2,6 +2,7 @@ if ! [ -x "$(command -v code)" ];
 then
     cd
     mkdir not_installed
+    mkdir tag
     exit
 fi
 
