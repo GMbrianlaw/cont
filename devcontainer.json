@@ -1,0 +1,16 @@
+{
+
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "/opt/codespace/extensions/lynbrook-cs-0.0.1.vsix",
+                "vscjava.vscode-java-pack",
+                "oliver-ni.web-cat-vscode"
+            ],
+            "settings": {
+                "files.autoSave": "off"
+            }
+        }
+    }
+
+}
