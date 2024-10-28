@@ -2,6 +2,9 @@ FROM ubuntu:22.04
 
 USER root
 
+RUN curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash - && \
+    sudo apt-get install -y nodejs
+
 RUN npm install --global @vscode/vsce && \
     mkdir -p /opt/codespace/extensions && \
     cd /tmp && \
