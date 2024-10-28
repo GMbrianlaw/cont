@@ -1,5 +1,10 @@
 {
 
+    "build": {
+        "context": ".",
+        "dockerfile": "dockerfile"
+    },
+
     "customizations": {
         "vscode": {
             "extensions": [
