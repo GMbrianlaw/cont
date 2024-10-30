@@ -13,7 +13,26 @@
                 "oliver-ni.web-cat-vscode"
             ],
             "settings": {
-                "files.autoSave": "off"
+                "files.autoSave": "off",
+                "files.exclude": {
+                    "Dockerfile": true,
+                    ".gitignore": true,
+                    ".devcontainer.json": true,
+                    "**/.git": true,
+                    "**/.svn": true,
+                    "**/.hg": true,
+                    "**/CVS": true,
+                    "**/.DS_Store": true,
+                    "**/Thumbs.db": true
+                },
+                "web-CAT.snarfURLs": [
+                    "http://205.173.41.10/pythonsnarf/snarf.xml",
+                    "http://205.173.41.10/javasnarf/snarf.xml",
+                    "http://205.173.41.10/apcssnarf/snarf.xml"
+                ],
+                "web-CAT.submitURLs": [
+                    "http://205.173.41.10/Web-CAT/WebObjects/Web-CAT.woa/wa/assignments/eclipse"
+                ]
             }
         }
     }
