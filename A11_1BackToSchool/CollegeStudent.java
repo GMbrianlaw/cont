@@ -15,3 +15,28 @@ public class CollegeStudent extends Student
             ", major: " + myMajor;
     }
 }
+
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
+// rivasdfasdfjkalsfjaksfasdf
