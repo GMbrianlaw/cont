@@ -1,11 +1,10 @@
 public class CollegeStudent extends Student
 {
-    // TODO instance variables
-    
-    // TODO constructor
-    
-    // TODO methods
-
+    int myMajor;
+    int myYear;
+    public CollegeStudent() {
+        super("ff", 3, "fa", "234", 3.32);
+    }
     /**
      * Returns a String representation of this class.
      * @return private instance data as a String
