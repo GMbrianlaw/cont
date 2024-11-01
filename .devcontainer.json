@@ -25,6 +25,8 @@
                     "**/.DS_Store": true,
                     "**/Thumbs.db": true
                 },
+                "java.server.launchMode": "Standard",
+                "redhat.telemetry.enabled": false,
                 "web-CAT.snarfURLs": [
                     "http://205.173.41.10/pythonsnarf/snarf.xml",
                     "http://205.173.41.10/javasnarf/snarf.xml",
