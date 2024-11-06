@@ -10,7 +10,7 @@ RUN <<EOF
     cd lynbrook-cs
     npm install
     vsce package
-    mv lynbrook-cs-0.0.1.vsix /opt/codespace/extensions
+    mv lynbrook-cs-*.vsix /opt/codespace/extensions
     cd /tmp
     npm uninstall --global vsce
 EOF
